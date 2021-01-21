@@ -1,6 +1,6 @@
 # Deep-Learning-Projects
 
-In this Repository I will be posting porjects realted to Deep Learning...
+In this Repository, I will be posting projects related to Deep Learning...
 
 | Index |  Project Name	| Link |
 | ----- | ------------------- | ----|
